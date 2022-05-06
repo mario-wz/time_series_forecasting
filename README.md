@@ -1,1 +1,1 @@
-Time_series_forecasting practice repo
+Time series forecasting practice repo
